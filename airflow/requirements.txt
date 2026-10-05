@@ -1,0 +1,9 @@
+boto3
+pandas
+pyarrow
+psycopg2-binary
+requests
+pyspark==3.5.7
+setuptools
+pymysql
+python-dotenv

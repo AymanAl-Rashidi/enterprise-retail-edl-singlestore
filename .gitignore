@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Local data
+data/
+
+# Airflow runtime
+airflow/logs/
+airflow/__pycache__/
+
+# IDE / OS
+.vscode/
+.DS_Store
+Thumbs.db
